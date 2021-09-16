@@ -168,6 +168,10 @@ i {
         left: 66px;
     }
 
+    i {
+        display: none !important;
+    }
+
 
 
 }
@@ -184,6 +188,29 @@ i {
         font-size: 41px;
         font-weight: 800;
     }
+
+    .partners {
+        justify-content: center;
+    }
+
+    .medium-cards {
+        height: 202px;
+        font-size: 14px;
+        width: 107px !important;
+        justify-content: center;
+    }
+    .faq {
+        padding: 0 !important;
+    }
+
+    .cards-alignment {
+        justify-content: center;
+    }
+
+    i {
+        display: none !important;
+    }
+
 
 }
 
@@ -221,8 +248,27 @@ i {
         padding: 0px 0 14px 0;
     }
 
+    .faq {
+        padding: 0 !important;
+    }
+
     .card {
         width: 20rem !important;
+    }
+
+    .medium-cards {
+        height: 202px;
+        font-size: 14px;
+        width: 107px !important;
+        justify-content: center;
+    }
+
+    .cards-alignment {
+        justify-content: center;
+    }
+
+    i {
+        display: none !important;
     }
 
 }
